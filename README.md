@@ -1,3 +1,10 @@
+# Coding Challenge - Due Date, Thursday Feb 15 2018 
+
+Generate your own faceswap using this algorithm. Post your github link with your code in the youtube comment section of [this](https://youtu.be/7XchCsYtYMQ) video. Bonus points if you document your code so that a beginner can do this easily (easier than this code). 
+
+## Overview
+
+This is the code for [this](https://youtu.be/7XchCsYtYMQ) video on Youtube by Siraj Raval.
 
 **Notice:** This repository is not operated or maintained by [/u/deepfakes](https://www.reddit.com/user/deepfakes/). Please read the explanation below for details.
 
@@ -111,3 +118,7 @@ Here's a slightly more in depth video that tries to explain the basic functionin
 [![How Machines Learn](https://img.youtube.com/vi/aircAruvnKk/0.jpg)](https://www.youtube.com/watch?v=aircAruvnKk)
 
 tl;dr: training data + trial and error
+
+## Credits 
+
+Credit goes to [deepfakes](https://github.com/deepfakes/faceswap). 
