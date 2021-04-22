@@ -37,7 +37,7 @@ Note: there is no conversion for video yet. You can use MJPG to convert video in
 
 ## Training Data  
 **Whole project with training images and trained model (~300MB):**  
-https://anonfile.com/p7w3m0d5be/face-swap.zip or [click here to download](https://anonfile.com/p7w3m0d5be/face-swap.zip)
+https://anonfiles.com/p7w3m0d5be/face-swap.zip or [click here to download](https://anonfiles.com/p7w3m0d5be/face-swap.zip)
 
 ## How To setup and run the project
 
